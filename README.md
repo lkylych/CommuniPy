@@ -5,8 +5,8 @@
 
 
 # CommuniPy :snake: :books:
-This repository includes exercises for refreshing Python skills, from strings, lists to Object Oriented Programming. 
-* **It is also a place that provides valuable insights from real humans on real life matters. People with different backgrounds share their stories and advices on how to become a better programmer and asset in the workfoce.**
+This repository includes exercises for refreshing Python skills, from strings and lists to Object Oriented Programming. 
+* **It is also a place that provides valuable insights from real humans on real life matters. People with different backgrounds can share their stories and advices on how to become a better programmer and asset in the workfoce.**
 
 * **This is intended to be a place for everyone with any Python knowledge to contribute
 and make an impact within the community. Have a problem in mind or want to share your story? Make a pull request!**
@@ -18,14 +18,14 @@ and make an impact within the community. Have a problem in mind or want to share
 **See [Notes](#notes) for other usage features.**
 
 ## How it works:
-CommuniPy is a place to craft your Python skills and learn from a large community with valuable insights.
+CommuniPy is a place to craft your Python skills and learn from a large community.
 * Implementation happens in the source file (reverse_string.py) within each Folder (e.g. 'Strings).
-* After that, all you have to do is execute the source file.
+* Afterwards, all you have to do is execute the source file.
 * If you pass all tests no error will be thrown.
 * If error is thrown it will trace back to the exact implementation where the error is coming from.
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/RafaelBroseghini/CommuniPy/blob/master/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Usage
 > Using Strings as an example.
